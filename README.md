@@ -4,7 +4,8 @@
 <center>IBM Data Science Certified & IBM Data Analyst Certified</center>
 <center><img src="images/certif1.jpg"/></center>
 <center>Stanford Machine Learning Certified & Stanford Deep Learning Certified</center>
-
+---
+<br>
 ## Machine Learning
 
 ### Predict House Prices (Regression) using XGBoost, Linear Regression, Ridge Regression, Lasso Regression, Lightgbm Regression, and CatBoost Regression with Cross Validation (Top 13% in Kaggle - Solo)
