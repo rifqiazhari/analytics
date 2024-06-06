@@ -1,5 +1,10 @@
 # Data Science Portfolio
 ---
+<center><img src="images/certif2.jpg"/></center>
+<center>IBM Data Science Certified & IBM Data Analyst Certified</center>
+<center><img src="images/certif1.jpg"/></center>
+<center>Stanford Machine Learning Certified & Stanford Deep Learning Certified</center>
+
 ## Machine Learning
 
 ### Predict House Prices (Regression) using XGBoost, Linear Regression, Ridge Regression, Lasso Regression, Lightgbm Regression, and CatBoost Regression with Cross Validation (Top 13% in Kaggle - Solo)
